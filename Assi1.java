@@ -10,24 +10,13 @@ class Assi1{
         }
         System.out.println("reverse of "+x+" is "+rev);
     }
-    public static void armstrong(int x){
-        int temp=x,c=0;
-        while(temp!=0){
-            temp/=10;
-            c++;
-        }
-        temp=x;
-        while(temp!=0){
-            Math.pow(temp, c);
-        }
-    }
-    public static void main(String sss[]) {
+  
+    public static void main(String ags[]) {
         // reverse number 
         int x=1234;
         reverse(x);
         //armstrong number (173)=1^3 + 7^3 + 3^3==
-        x=1000;
-        armstrong(x);
+        
 
         /*  pateren 
         1
@@ -124,8 +113,8 @@ class Assi1{
          }
          System.out.println();
         }
-
     } 
+  
     
     
 }

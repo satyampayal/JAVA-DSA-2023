@@ -28,10 +28,29 @@ public class Assig2 {
             temp/=10;
         }
         if(sum==check)
-        System.out.println(sum+" ");
+        System.out.print(sum+" ");
         
     }
-  
+    sc.close();
+    System.out.println();
+    // pattren 
+    int z=4;
+    for(int i=1;i<=4;i++){
+        for(int j=1;j<=z-i;j++)
+        System.out.print(" ");
+        for(int j=1;j<=i;j++)
+         System.out.print("* ");
+
+         System.out.println();
+    }
+    for(int i=1;i<=3;i++){
+        for(int j=1;j<=i;j++)
+        System.out.print(" ");
+        for(int j=1;j<=z-i;j++)
+         System.out.print("* ");
+
+         System.out.println();
+    }
 
 
     
