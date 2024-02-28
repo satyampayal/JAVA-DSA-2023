@@ -11,6 +11,7 @@ public class reversearray {
          }
          for(int i=0;i<arr.length;i++)
          System.out.print(arr[i]+ " ");
+         System.out.println();
 
          // min max 
 
@@ -24,7 +25,7 @@ public class reversearray {
             if(min>arr[i])
                min=arr[i];
          }
-         System.out.println("max is :"+max+"Minimum is "+ min);
+         System.out.println("max is :"+max+" and " +"Minimum is :"+ min);
 
 
          // peak element 

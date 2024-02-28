@@ -1,0 +1,2 @@
+create table wifi (clo1 varchar(20) primary key,col2 int );
+Insert into (col1,col2,col3) values("name");

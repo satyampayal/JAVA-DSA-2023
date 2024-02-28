@@ -44,7 +44,9 @@ public class getFloorandCeil {
 
         while (l <= h) {
             int mid = (l + h) / 2;
-            if(key==arr2[mid])
+            if(key==arr2[mid]){
+                
+            }
         }
     }
 

@@ -1,4 +1,4 @@
-
+// i think i have to resolve this problem 
 class hpf {
   public static void main(String[] args) {
     int n = 81034;
