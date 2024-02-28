@@ -8,3 +8,24 @@ what is DS?
  ..........like array,string,trie(google use for search item),Stack,queue,hasp,map,tree,graph.
 
 
+what is SOLID principle
+s--> 
+o--> open for extension and close for modification 
+
+what is OCA level prepation
+1>>this is certify in java orcale certify association(OCA);
+
+what is function?
+function is a block of code which perform specfic task and follow the  DRY principle(Do not repeat statement of code)
+function can take input or not.
+process on it..
+produces output;;;;
+we used function for save repeated work ;;means it is reusable
+function enhanses modularity (means devided problem into small problem called module);
+
+function is a reusable block of code which may take input process on it and produces output ,
+function enhanse modularity
+
+q>> Every class have upper class ?
+    Object class;
+
