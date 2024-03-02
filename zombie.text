@@ -9,7 +9,7 @@ what is DS?
 
 
 what is SOLID principle
-s--> 
+s--> single responsiblity Principle
 o--> open for extension and close for modification 
 
 what is OCA level prepation
@@ -28,4 +28,15 @@ function enhanse modularity
 
 q>> Every class have upper class ?
     Object class;
+
+
+System>out.Println("");
+   // println Is non static metod , to call non-static method we need object(instance) 
+    //  so,,, out is a object of PrintStream Class,
+      //   and out object is declared in System class ,
+    if we import java.io.PrintStream; then its not work becase this printSream not know 
+          where we do where we do,
+          so it tell by System,and out (print on console)
+
+    
 
